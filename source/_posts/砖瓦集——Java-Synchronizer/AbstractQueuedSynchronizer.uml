@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.util.concurrent.locks.AbstractQueuedSynchronizer</OriginalElement>
+  <nodes>
+    <node x="299.4038461538462" y="79.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+    <node x="515.4038461538462" y="307.0">java.util.concurrent.ThreadPoolExecutor</node>
+    <node x="314.4038461538462" y="237.0">java.util.concurrent.locks.ReentrantReadWriteLock</node>
+    <node x="-17.75" y="156.0">java.util.concurrent.CountDownLatch.Sync</node>
+    <node x="296.9038461538462" y="0.0">java.util.concurrent.locks.AbstractOwnableSynchronizer</node>
+    <node x="157.4038461538462" y="237.0">java.util.concurrent.locks.ReentrantLock</node>
+    <node x="789.0769230769231" y="80.0">java.util.concurrent.Semaphore</node>
+    <node x="607.0288461538462" y="157.0">java.util.concurrent.ThreadPoolExecutor.Worker</node>
+    <node x="186.9038461538462" y="158.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
+    <node x="-97.0" y="235.0">java.util.concurrent.CountDownLatch</node>
+    <node x="367.8269230769231" y="158.0">java.util.concurrent.locks.ReentrantReadWriteLock.Sync</node>
+    <node x="779.3269230769231" y="159.0">java.util.concurrent.Semaphore.Sync</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.util.concurrent.Semaphore.Sync" target="java.util.concurrent.Semaphore">
+      <point x="0.0" y="-14.5" />
+      <point x="-29.25" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.ReentrantLock">
+      <point x="19.5" y="14.5" />
+      <point x="245.4038461538462" y="212.0" />
+      <point x="260.1538461538462" y="212.0" />
+      <point x="34.25" y="-14.5" />
+    </edge>
+    <edge source="java.util.concurrent.ThreadPoolExecutor.Worker" target="java.util.concurrent.ThreadPoolExecutor">
+      <point x="31.0" y="14.5" />
+      <point x="685.5288461538462" y="287.0" />
+      <point x="666.7788461538462" y="287.0" />
+      <point x="64.875" y="-14.5" />
+    </edge>
+    <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+      <point x="0.0" y="-14.5" />
+      <point x="225.9038461538462" y="138.0" />
+      <point x="368.4038461538462" y="138.0" />
+      <point x="-46.0" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.locks.ReentrantReadWriteLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+      <point x="0.0" y="-14.5" />
+      <point x="406.8269230769231" y="138.0" />
+      <point x="414.4038461538462" y="138.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.ThreadPoolExecutor" target="java.util.concurrent.ThreadPoolExecutor.Worker">
+      <point x="-21.625" y="-14.5" />
+      <point x="580.2788461538462" y="277.0" />
+      <point x="623.5288461538462" y="277.0" />
+      <point x="-31.0" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.ThreadPoolExecutor" target="java.util.concurrent.locks.ReentrantLock">
+      <point x="-64.875" y="-14.5" />
+      <point x="537.0288461538462" y="293.0" />
+      <point x="225.9038461538462" y="296.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.CountDownLatch.Sync" target="java.util.concurrent.CountDownLatch">
+      <point x="-26.0" y="-14.5" />
+      <point x="-4.75" y="203.0" />
+      <point x="-57.25" y="203.0" />
+      <point x="-38.75" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.Semaphore.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+      <point x="-26.0" y="-14.5" />
+      <point x="792.3269230769231" y="129.0" />
+      <point x="506.4038461538462" y="128.0" />
+      <point x="92.0" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.Semaphore" target="java.util.concurrent.Semaphore.Sync">
+      <point x="29.25" y="14.5" />
+      <point x="876.8269230769231" y="139.0" />
+      <point x="844.3269230769231" y="139.0" />
+      <point x="25.99999999999997" y="-14.5" />
+    </edge>
+    <edge source="java.util.concurrent.ThreadPoolExecutor.Worker" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+      <point x="0.0" y="-14.5" />
+      <point x="653.5288461538462" y="138.0" />
+      <point x="460.4038461538462" y="138.0" />
+      <point x="46.0" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.locks.AbstractQueuedSynchronizer" target="java.util.concurrent.locks.AbstractOwnableSynchronizer">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.CountDownLatch" target="java.util.concurrent.CountDownLatch.Sync">
+      <point x="38.75" y="14.5" />
+      <point x="0.0" y="-14.5" />
+    </edge>
+    <edge source="java.util.concurrent.locks.ReentrantReadWriteLock" target="java.util.concurrent.locks.ReentrantReadWriteLock.Sync">
+      <point x="-50.0" y="-14.5" />
+      <point x="364.4038461538462" y="212.0" />
+      <point x="387.3269230769231" y="212.0" />
+      <point x="-19.5" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.locks.ReentrantReadWriteLock.Sync" target="java.util.concurrent.locks.ReentrantReadWriteLock">
+      <point x="19.5" y="14.5" />
+      <point x="426.3269230769231" y="212.0" />
+      <point x="464.4038461538462" y="212.0" />
+      <point x="50.0" y="-14.5" />
+    </edge>
+    <edge source="java.util.concurrent.locks.ReentrantLock" target="java.util.concurrent.locks.ReentrantLock.Sync">
+      <point x="-34.25" y="-14.5" />
+      <point x="191.6538461538462" y="212.0" />
+      <point x="206.4038461538462" y="212.0" />
+      <point x="-19.5" y="14.5" />
+    </edge>
+    <edge source="java.util.concurrent.CountDownLatch.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+      <point x="26.0" y="-14.5" />
+      <point x="47.25" y="126.0" />
+      <point x="322.4038461538462" y="128.0" />
+      <point x="-92.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Tree" zoom="1.0" x="371.0" y="172.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
