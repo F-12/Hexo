@@ -1,6 +1,8 @@
 ---
 title: 砖瓦集——Java Fork/Join
 date: 2019-05-11 17:57:05
+toc: true
+thumbnail: /images/banner.jpg
 tags:
     - Java
     - 线程

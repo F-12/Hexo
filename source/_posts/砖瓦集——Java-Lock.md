@@ -1,6 +1,8 @@
 ---
 title: 砖瓦集——Java Lock
 date: 2019-05-11 13:37:49
+toc: true
+thumbnail: /images/banner.jpg
 tags:
     - Java
     - 线程
