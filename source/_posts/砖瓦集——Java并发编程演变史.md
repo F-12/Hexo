@@ -1,6 +1,8 @@
 ---
 title: 砖瓦集——Java并发编程演变史
 date: 2019-05-11 19:26:46
+toc: true
+thumbnail: /images/banner.jpg
 tags:
     - Java
     - 线程

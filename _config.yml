@@ -87,7 +87,8 @@ all_minifier: true
 
 
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

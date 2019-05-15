@@ -1,6 +1,8 @@
 ---
 title: 砖瓦集——DDD基本构造块实践
 date: 2019-05-13 18:02:28
+toc: true
+thumbnail: /images/banner.jpg
 tags:
     - DDD
     - 领域驱动设计

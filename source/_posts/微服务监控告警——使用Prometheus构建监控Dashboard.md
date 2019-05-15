@@ -1,6 +1,8 @@
 ---
 title: 微服务监控告警——使用Prometheus构建监控Dashboard
 date: 2019-04-23T08:25:51.573Z
+toc: true
+thumbnail: /images/banner.jpg
 tags:
   - 微服务
   - Monitoring

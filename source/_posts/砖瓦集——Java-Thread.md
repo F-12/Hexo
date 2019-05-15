@@ -1,6 +1,8 @@
 ---
 title: 砖瓦集——Java Thread
 date: 2019-05-10 20:53:40
+toc: true
+thumbnail: /images/banner.jpg
 tags:
     - Java
     - 线程

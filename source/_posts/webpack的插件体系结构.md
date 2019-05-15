@@ -1,6 +1,8 @@
 ---
 title: webpack的插件体系结构
 date: 2017-09-25 13:58:51
+toc: true
+thumbnail: /images/banner.jpg
 tags:
     - webpack
     - javascript
