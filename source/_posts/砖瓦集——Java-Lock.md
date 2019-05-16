@@ -10,6 +10,10 @@ tags:
     - Lock
 ---
 
+本文是关于 Lock 框架的学习笔记。
+
+<!-- more -->
+
 # 目标
 - Lock和ReadWriteLock
 - 显示锁和监视器锁

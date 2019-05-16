@@ -12,6 +12,10 @@ tags:
     - Synchronizer
 ---
 
+本文是关于 AQS 框架的学习笔记。
+
+<!-- more -->
+
 # 目标
 了解java中关于synchronizer的实现。
 

@@ -18,3 +18,5 @@ tags:
 - JDK 1.5，引入concurrent包，确立happens-before内存模型
 - JDK 6.0，锁优化
 - JDK 7.0，完善了并发流程控制，fork-join框架
+
+<!-- more -->

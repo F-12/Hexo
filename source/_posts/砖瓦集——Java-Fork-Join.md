@@ -12,6 +12,10 @@ tags:
     - join
 ---
 
+本文是关于 Fork／Join 框架的学习笔记。
+
+<!-- more -->
+
 # 目标
 系统了解Java的Fork/Join框架，已经以下元素的概念和用法。
 - ForkJoinTask

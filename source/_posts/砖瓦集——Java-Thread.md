@@ -8,6 +8,10 @@ tags:
     - 线程
 ---
 
+本文是关于 Thread 对象的学习笔记。
+
+<!-- more -->
+
 # Thread开始的地方
 jdk 1.0起存在的两个类：`Thread`和`Runnable`，是java 1.0开始提供给用户代码使用线程的方式。
 
