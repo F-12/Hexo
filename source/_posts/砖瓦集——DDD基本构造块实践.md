@@ -1,12 +1,12 @@
----
 title: 砖瓦集——DDD基本构造块实践
-date: 2019-05-13 18:02:28
 toc: true
 thumbnail: /images/banner.jpg
 tags:
-    - DDD
-    - 领域驱动设计
-    - 最佳实践
+  - DDD
+  - 领域驱动设计
+  - 最佳实践
+nanoid: QJYbp6dmQG6ybOlVzCoJZ
+date: 2019-05-13 18:02:28
 ---
 
 本文记录领域驱动设计实践过程中关于基本构造块的最佳实践。

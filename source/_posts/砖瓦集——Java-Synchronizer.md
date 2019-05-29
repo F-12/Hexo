@@ -1,15 +1,15 @@
----
 title: 砖瓦集——Java Synchronizer
-date: 2019-05-12 12:56:35
 toc: true
 thumbnail: /images/banner.jpg
 tags:
-    - TODO
-    - Java
-    - 线程
-    - 锁
-    - Lock
-    - Synchronizer
+  - TODO
+  - Java
+  - 线程
+  - 锁
+  - Lock
+  - Synchronizer
+nanoid: dXDoJQVBvx5BfLqotq0My
+date: 2019-05-12 12:56:35
 ---
 
 本文是关于 AQS 框架的学习笔记。

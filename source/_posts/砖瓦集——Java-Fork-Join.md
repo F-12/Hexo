@@ -1,15 +1,15 @@
----
 title: 砖瓦集——Java Fork/Join
-date: 2019-05-11 17:57:05
 toc: true
 thumbnail: /images/banner.jpg
 tags:
-    - TODO
-    - Java
-    - 线程
-    - 并发
-    - fork
-    - join
+  - TODO
+  - Java
+  - 线程
+  - 并发
+  - fork
+  - join
+nanoid: UOACRva7Wld41I9KrMNAe
+date: 2019-05-11 17:57:05
 ---
 
 本文是关于 Fork／Join 框架的学习笔记。

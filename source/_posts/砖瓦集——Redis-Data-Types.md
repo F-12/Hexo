@@ -1,10 +1,10 @@
----
 title: 砖瓦集——Redis Data Types
 toc: true
 thumbnail: /images/banner.jpg
-date: 2019-05-17 10:47:15
 tags:
-    - redis
+  - redis
+nanoid: kZiPRm8E56bBN4opSXUlV
+date: 2019-05-17 10:47:15
 ---
 
 本文记录redis 抽象数据结构学习笔记。

@@ -1,12 +1,12 @@
----
 title: 砖瓦集——Java Thread Pool
-date: 2019-05-10 23:58:19
 toc: true
 thumbnail: /images/banner.jpg
 tags:
-    - Java
-    - 线程
-    - 线程池
+  - Java
+  - 线程
+  - 线程池
+nanoid: exzkwOmnx3tNqHSoy4sKu
+date: 2019-05-10 23:58:19
 ---
 
 本文是关于 Thread Pool 对象的学习笔记。

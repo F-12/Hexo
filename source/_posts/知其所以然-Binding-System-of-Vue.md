@@ -1,13 +1,13 @@
----
 title: 知其所以然-Binding_System_of_Vue
-date: 2016-09-19 22:42:00
 toc: true
 thumbnail: /images/banner.jpg
 author: F-12
 tags:
-- Vue
-- Javascript
-- Web
+  - Vue
+  - Javascript
+  - Web
+nanoid: FQcqDZNuTrOT1XWQkDnPk
+date: 2016-09-19 22:42:00
 ---
 
 

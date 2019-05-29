@@ -1,13 +1,13 @@
----
 title: webpack的插件体系结构
-date: 2017-09-25 13:58:51
 toc: true
 thumbnail: /images/banner.jpg
 tags:
-    - webpack
-    - javascript
-    - 源码分析
-    - 插件体系
+  - webpack
+  - javascript
+  - 源码分析
+  - 插件体系
+nanoid: uLyamX8we-tCcy2T8C9gc
+date: 2017-09-25 13:58:51
 ---
 
 # 前置知识

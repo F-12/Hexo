@@ -1,14 +1,14 @@
----
 title: 微服务监控告警——使用SpringBootAdmin对服务进行实时可视化管理
-date: 2019-04-23 14:33:21
 toc: true
 thumbnail: /images/banner.jpg
-tags: 
+tags:
   - Spring
   - SpringBootAdmin
   - Monitoring
   - 监控
   - 微服务
+nanoid: 7E5R_dd4r-oKk-Zy3P_Es
+date: 2019-04-23 14:33:21
 ---
 
 # Spring Boot Admin 介绍

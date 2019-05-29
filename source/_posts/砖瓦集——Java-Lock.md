@@ -1,13 +1,13 @@
----
 title: 砖瓦集——Java Lock
-date: 2019-05-11 13:37:49
 toc: true
 thumbnail: /images/banner.jpg
 tags:
-    - Java
-    - 线程
-    - 锁
-    - Lock
+  - Java
+  - 线程
+  - 锁
+  - Lock
+nanoid: F1EYQKTHTiV42gt-ADQIO
+date: 2019-05-11 13:37:49
 ---
 
 本文是关于 Lock 框架的学习笔记。

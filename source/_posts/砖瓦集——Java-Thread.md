@@ -1,11 +1,11 @@
----
 title: 砖瓦集——Java Thread
-date: 2019-05-10 20:53:40
 toc: true
 thumbnail: /images/banner.jpg
 tags:
-    - Java
-    - 线程
+  - Java
+  - 线程
+nanoid: QDoZWB_OwWL9j-SAtC_gs
+date: 2019-05-10 20:53:40
 ---
 
 本文是关于 Thread 对象的学习笔记。
