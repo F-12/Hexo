@@ -126,7 +126,7 @@ tags:
 
 *** Customize Types
 **** Struct
-**** Enumerated
+**** Enum
 **** Union
 
 *** Function types
@@ -143,8 +143,7 @@ tags:
 **** Impl trait
 
 *** Parameterized Types
-**** Type parameters
-**** Inferred type
+*** Inferred type
 
 ** Layout
 *** Size
